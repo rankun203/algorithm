@@ -55,4 +55,4 @@ You can download all of the programs as <a href = "http://algs4.cs.princeton.edu
 the data as <a href = "http://algs4.cs.princeton.edu/code/algs4-data.zip"><b>algs4-data.zip<b></a>.
 
 ============
-<a href="https://www.coursera.org/course/algs4partI">Online Course: Algorithms, Part I</a>
+Online Course: <a href="https://www.coursera.org/course/algs4partI">Algorithms, Part I</a>
