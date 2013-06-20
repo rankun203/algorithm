@@ -5,6 +5,7 @@ Algorithms Fourth Edition Practice
 
 官方网站：<a href="http://algs4.cs.princeton.edu/home/">Algorithms, 4th Edition</a>
 
+=========
 The textbook is organized into six chapters: 
 
 <ul>
@@ -38,7 +39,7 @@ operations research, and intractability.
 
 </ul>
 
-
+==========
 Our original goal for this book was to cover
 <em>the 50 algorithms that every programmer should know.</em>
 We use the word <em>programmer</em> to refer to anyone engaged in trying to accomplish 
@@ -52,3 +53,6 @@ Click on the program name to access the Java code; click on the description to
 access the javadoc; click on the data file names to access the data.
 You can download all of the programs as <a href = "http://algs4.cs.princeton.edu/code/algs4.jar"><b>algs4.jar</b></a> and
 the data as <a href = "http://algs4.cs.princeton.edu/code/algs4-data.zip"><b>algs4-data.zip<b></a>.
+
+============
+<a href="https://www.coursera.org/course/algs4partI">Online Course: Algorithms, Part I</a>
