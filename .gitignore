@@ -1,10 +1,10 @@
-.txt
-.csv
-.bin
-.class
+*.txt
+*.csv
+*.bin
+*.class
 
-.project
-.classpath
+*.project
+*.classpath
 
 bin/
 .settings/
