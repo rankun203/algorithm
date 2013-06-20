@@ -50,5 +50,5 @@ The list below includes a few more than 100 Java programs (some are clients,
 some others are basic infrastructure).
 Click on the program name to access the Java code; click on the description to 
 access the javadoc; click on the data file names to access the data.
-You can download all of the programs as <a href = "http://algs4.cs.princeton.edu/code/algs4.jar">algs4.jar</a> and
-the data as <a href = "http://algs4.cs.princeton.edu/code/algs4-data.zip">algs4-data.zip</a>.
+You can download all of the programs as <a href = "http://algs4.cs.princeton.edu/code/algs4.jar"><b>algs4.jar</b></a> and
+the data as <a href = "http://algs4.cs.princeton.edu/code/algs4-data.zip"><b>algs4-data.zip<b></a>.
