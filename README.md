@@ -51,8 +51,12 @@ The list below includes a few more than 100 Java programs (some are clients,
 some others are basic infrastructure).
 Click on the program name to access the Java code; click on the description to 
 access the javadoc; click on the data file names to access the data.
-You can download all of the programs as <a href = "http://algs4.cs.princeton.edu/code/algs4.jar"><b>algs4.jar</b></a> and
+You can download all of the programs as <a href = "http://algs4.cs.princeton.edu/code/algs4.jar"><b>algs4.jar</b></a><sup><a href="#ref">[1]</a></sup> and
 the data as <a href = "http://algs4.cs.princeton.edu/code/algs4-data.zip"><b>algs4-data.zip<b></a>.
 
 ============
 Online Course: <a href="https://www.coursera.org/course/algs4partI">Algorithms, Part I</a>
+
+============
+<div name="ref" id="ref">Reference:<div>
+1、如果要运行src下面的类，请使用lib目录提供的经过再编译的类库：<a href="https://github.com/rankun203/algorithm/blob/master/lib/algs.jar">algs.jar</a>
