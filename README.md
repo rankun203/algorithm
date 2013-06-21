@@ -46,8 +46,7 @@ We use the word <em>programmer</em> to refer to anyone engaged in trying to acco
 something with the help of a computer, including scientists, engineers, and applications 
 developers, not to mention college students in science, engineering, and computer science.
 
-<p><b>Algorithms and clients in the textbook.</b>
-
+<p><b>Algorithms and clients in the textbook.</b><br>
 The list below includes a few more than 100 Java programs (some are clients,
 some others are basic infrastructure).
 Click on the program name to access the Java code; click on the description to 
